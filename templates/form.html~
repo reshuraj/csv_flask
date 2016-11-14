@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>simple form</title>
+</head>
+<body>
+	
+	<form action="/login/" method ="POST">
+	<table>
+		<tr><td>user name</td>
+		     <td><input type= "text" name="un"></td></tr>
+		<tr><td>password</td>
+			<td><input type="text" name="pswd"></td></tr>
+	</table>
+		<button type="submit" value="submit">submit</button>
+	</form>
+	
+	
+	<!--<form action="your_method_name" method="post">
+		Project file path:<input type="text" name="projectfilepath"><br />
+		<input type="submit" value="submit">
+	</form>-->
+</body>
+</html>

@@ -1,0 +1,5 @@
+#ignore pyc file
+*.py[cod]
+#ignore virtual env folder
+venv
+
