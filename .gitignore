@@ -1,3 +1,6 @@
+#GEdit ignore
+*.html~
+*.py~
 #ignore pyc file
 *.py[cod]
 #ignore virtual env folder
