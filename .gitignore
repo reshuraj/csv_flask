@@ -1,4 +1,7 @@
 #GEdit ignore
+*.md~
+*.txt~
+#GEdit ignore
 *.html~
 *.py~
 #ignore pyc file
